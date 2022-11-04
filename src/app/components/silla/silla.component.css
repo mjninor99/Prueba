@@ -1,0 +1,16 @@
+.square{
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    position:relative;
+
+}
+
+.value{
+    position: absolute;
+    margin-inline-start: 0.4rem;
+    line-height: 200%;
+    text-align: center;
+    vertical-align: middle;
+}
+
